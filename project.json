@@ -1,7 +1,7 @@
 {
   "name": "Robot6_OpticalCharacterRecognition",
   "projectId": "000ea38c-8eb5-4652-9181-38bf1f42a7f5",
-  "description": "Scrapes text from scanned receipts",
+  "description": "This robot's function is to use OCR scanning to scrape PDF based invoices and output them to a designated file",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.PDF.Activities": "[3.11.0]",
